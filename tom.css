@@ -46,7 +46,8 @@ height: 70px;
     height: 100vh;
     /* border: 3px solid grey; */
     align-self: center;
-    background-image: url("./migu.jpg"),linear-gradient(45deg,#00000067,#00000056);
+    background-image: url("./migu.jpg");
+    
     
 }
 
@@ -73,4 +74,18 @@ cursor:  pointer;
 } 
 .button:hover{
     color: brown;
+}
+
+.last{
+    display: flex;
+    text-align: center;
+    justify-content: space-around;
+    
+}
+
+.prem{
+    text-align: center;
+    padding: 20px;
+    font-size: 30px;
+    color: blueviolet;
 }
