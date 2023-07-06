@@ -35,3 +35,42 @@ width: 150px;
 height: 70px;
 
 }
+
+.img{
+    width: 300px;
+}
+
+.baner{
+    display: flex;
+    justify-content: space-around;
+    height: 100vh;
+    /* border: 3px solid grey; */
+    align-self: center;
+    background-image: url("./migu.jpg"),linear-gradient(45deg,#00000067,#00000056);
+    
+}
+
+.title{
+    font-size: 50px;
+    font-weight: bold;
+    color: aquamarine;
+    
+
+}
+.pera{
+    color: burlywood;
+    font-weight: bolder;
+    font-size: 20px;
+    margin-bottom: 15px;
+}
+.button{
+    color: rgba(98, 0, 255, 0.753);
+background-color: rgb(243, 255, 240);
+padding: 10px;
+border: none;
+cursor:  pointer;
+
+} 
+.button:hover{
+    color: brown;
+}
