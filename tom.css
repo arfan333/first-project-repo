@@ -1,4 +1,37 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
 #tom{
     color: blueviolet;
     text-align: center;
+}
+.container{
+background-color: blanchedalmond;
+padding: 20px;
+color: brown;
+list-style: none;
+display: flex;
+align-items: center;
+justify-content: space-around;
+}
+
+.bro{
+
+    display: flex;
+}
+
+.item{
+    margin-right: 10px;
+    padding: 10px;
+    font-size: 20px;
+    cursor: pointer;
+}
+.item:hover{color: aqua;}
+
+.apen{
+width: 150px;
+height: 70px;
+
 }
