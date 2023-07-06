@@ -86,6 +86,32 @@ cursor:  pointer;
 .prem{
     text-align: center;
     padding: 20px;
-    font-size: 30px;
+    font-size: 40px;
     color: blueviolet;
+}
+
+.icon{
+width: 100px;
+
+}
+
+.box{
+
+    width: 230px;
+    height: 280px;
+    box-shadow: 5px 5px 15px goldenrod;
+    background-color: wheat;
+    text-align: center;
+    padding: 10px;
+    ;
+    
+}
+.abc{
+    background-color: brown;
+    padding: 2px;
+}
+.napa{
+    display: flex;
+    justify-content: space-around;
+    padding: 20px;
 }
